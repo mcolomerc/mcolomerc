@@ -45,7 +45,7 @@
 ## 🔗 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-colomer-b8000013)
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me: [email](mailto:marcelocolomer76@gmai.com)
 
 ---
 ⭐️ Don’t forget to check out my repositories and contributions!
