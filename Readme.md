@@ -20,6 +20,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [🚀 FlinkSQL Click Stream pipeline ](https://github.com/mcolomerc/flinksql-click-stream-pipeline) | Confluent Cloud Flink SQL pipeline managed with Python |  
 | [🔧 MCP Server](https://github.com/confluentinc/mcp-confluent) | Confluent Monitoring Control Plane Server |
 | [💸 Confluent Cloud Cost Exporter](https://github.com/mcolomerc/confluent-cloud-cost-exporter) | Export billing metrics for Confluent Cloud |
 | [📊 Kafka Offset Validator](https://github.com/mcolomerc/kafka-offset-validator) | CLI tool to validate Kafka offsets |
