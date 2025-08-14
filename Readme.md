@@ -27,14 +27,7 @@
 | [🚀 Migration Tools](https://mcolomerc.github.io/cctools) | Kafka/Confluent Cloud migration toolkit |
 
 ---
-
-## 🗣️ Talks & Conferences
-
-- 🎤 JBCNConf 2018: *Reactive Web Apps with Spring 5 & Kafka*
-- 🎤 JBCNConf 2017: *Microservices from 0–100*
-- 🎤 AngularCamp: *Appverse Generator for AngularJS*
-
----
+ 
 
 ## 📈 GitHub Stats
 
