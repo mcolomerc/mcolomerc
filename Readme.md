@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Marcelo Colomer
 
+<p align="center">
+  <a href="https://github.com/sponsors/mcolomerc" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-blueviolet?logo=github" alt="Sponsor on GitHub"/>
+  </a>
+  <a href="https://buymeacoffee.com/mcolomerc" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mcolomerc-yellow?logo=buy-me-a-coffee" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+
 🎯 **Senior Cloud & Streaming Architect**  
 ⚡ Specializing in Apache Kafka, Apache Flink, and Cloud-Native Architectures  
 🌍 Helping enterprises design scalable, real-time data solutions across EMEA
