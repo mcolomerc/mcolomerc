@@ -29,6 +29,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [🚀 FlinkSQL pipeline generator ](https://mcolomerc.github.io/pipegen/) | CLI for generating FlinkSQL pipelines| 
 | [🚀 FlinkSQL Click Stream pipeline ](https://github.com/mcolomerc/flinksql-click-stream-pipeline) | Confluent Cloud Flink SQL pipeline managed with Python |  
 | [🔧 MCP Server](https://github.com/confluentinc/mcp-confluent) | Confluent Monitoring Control Plane Server |
 | [💸 Confluent Cloud Cost Exporter](https://github.com/mcolomerc/confluent-cloud-cost-exporter) | Export billing metrics for Confluent Cloud |
