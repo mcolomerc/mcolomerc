@@ -49,7 +49,7 @@
 ## 🔗 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-colomer-b8000013)
-- 📫 Reach me: [email](mailto:marcelocolomer76@gmai.com)
+- 📫 Reach me: [email](mailto:marcelocolomer76@gmail.com)
 
 ---
 ⭐️ Don’t forget to check out my repositories and contributions!
